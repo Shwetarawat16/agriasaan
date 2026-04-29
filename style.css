@@ -1,0 +1,80 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2868
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww28200\viewh15640\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 body \{\
+    margin: 0;\
+    font-family: Arial, sans-serif;\
+\}\
+\
+nav \{\
+    display: flex;\
+    justify-content: space-between;\
+    background: #2e7d32;\
+    color: white;\
+    padding: 10px 20px;\
+\}\
+\
+nav a \{\
+    color: white;\
+    margin-left: 15px;\
+    text-decoration: none;\
+\}\
+\
+.hero \{\
+    text-align: center;\
+    padding: 80px 20px;\
+    background: linear-gradient(to right, #2e7d32, #66bb6a);\
+    color: white;\
+\}\
+\
+.btn \{\
+    background: white;\
+    color: #2e7d32;\
+    padding: 10px 20px;\
+    text-decoration: none;\
+\}\
+\
+.services \{\
+    text-align: center;\
+    padding: 40px;\
+\}\
+\
+.cards \{\
+    display: flex;\
+    justify-content: center;\
+    gap: 20px;\
+    flex-wrap: wrap;\
+\}\
+\
+.card \{\
+    border: 1px solid #ddd;\
+    padding: 20px;\
+    width: 250px;\
+\}\
+\
+.page \{\
+    padding: 40px;\
+    text-align: center;\
+\}\
+\
+input, textarea \{\
+    width: 80%;\
+    padding: 10px;\
+    margin: 10px 0;\
+\}\
+\
+button \{\
+    padding: 10px 20px;\
+    background: #2e7d32;\
+    color: white;\
+    border: none;\
+\}\
+\
+.lang-toggle \{\
+    text-align: right;\
+    padding: 10px;\
+\}}
